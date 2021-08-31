@@ -1,0 +1,7 @@
+.FormikSelect {
+  margin: 10px 0;
+}
+
+p[class*="required"] {
+  color: #ff2f2f;
+}

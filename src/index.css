@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #20222a;
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  font-family: "Roboto";
+
+}
+
